@@ -25,6 +25,7 @@ As illustrated in the diagram above, the first step involves converting standard
 
 ### Teacher-Student Training
 
+
 #### Distilling Knowledge from the Teacher Model
 
 Upon acquiring the fisheye data, the subsequent phase involves leveraging the Segment Anything Model (SAM) for pseudo-labeling to curate the training dataset. This process can be approached via two methodologies:
@@ -34,6 +35,8 @@ Upon acquiring the fisheye data, the subsequent phase involves leveraging the Se
 2. **Roboflow's Integrated SAM Tool**: For a more streamlined integration, Roboflow offers an in-built SAM tool accessible at [Roboflow](https://app.roboflow.com/), facilitating an easier annotation process.
 
 Additionally, we are in the process of compiling a comprehensive dataset that will be made available shortly, aimed at further assisting your endeavors.
+
+
 
 #### Training the Student Model with Distilled Knowledge
 
