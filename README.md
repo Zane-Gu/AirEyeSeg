@@ -1,3 +1,6 @@
+# Big News!!!🎉🎉🎉
+Our Paper "AirEyeSeg: Teacher-Student Insights into Robust Fisheye UAV Detection" won the ICPRAM 2024 Best Student Paper Award!!!
+
 # AirEyeSeg
 ![Overview Diagram](https://github.com/Zane-Gu/AirEyeSeg/assets/109570480/81e358be-67fc-42d4-aa70-82b7229cfdcd)
 This diagram provides an overview of our proposed Teacher-Student training scheme. The development process for fisheye detectors begins with converting standard image datasets to fisheye format. We then employ a computer vision foundation model, the Segment Anything Model (SAM), as the teacher. This guides efficient object detectors, specifically YOLOv8, as students to enhance detection and segmentation capabilities for obstacle avoidance. We trained two detectors using the Teacher-Student training method: (a) AirEyeSeg training and (b) AirEyeGT training, to validate the reliability of SAM-generated labels.
