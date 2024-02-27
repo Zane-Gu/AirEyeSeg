@@ -1,7 +1,7 @@
 # Big News!!!🎉🎉🎉
-Our Paper "AirEyeSeg: Teacher-Student Insights into Robust Fisheye UAV Detection" won the ICPRAM 2024 Best Student Paper Award!!! 
+Our Paper "AirEyeSeg: Teacher-Student Insights into Robust Fisheye UAV Detection" won the **ICPRAM 2024 Best Student Paper Award**!!! 
 
-In addition, I am actively looking for any available PhD position in Computer Vision and Machine Learning! If you have any available position, feel free to contact me via [zhenyue.gu22@imperial.ac.uk](mailto:zhenyue.gu22@imperial.ac.uk).
+In addition, **I am actively looking for any available PhD position in Computer Vision and Machine Learning**! If you have any available position, feel free to contact me via [zhenyue.gu22@imperial.ac.uk](mailto:zhenyue.gu22@imperial.ac.uk).
 
 # AirEyeSeg
 ![Overview Diagram](https://github.com/Zane-Gu/AirEyeSeg/assets/109570480/81e358be-67fc-42d4-aa70-82b7229cfdcd)
