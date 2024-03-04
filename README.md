@@ -50,14 +50,19 @@ The training of the student model, utilizing the distilled knowledge, is designe
 
 # Cite
 
-> ```
-> @inproceedings{Gu2024AirEyeSeg,
->   author    = {Gu, Z. and Kolbeinsson, B. and Mikolajczyk, K.},
->   title     = {AirEyeSeg: Teacher-Student Insights into Robust Fisheye UAV Detection},
->   booktitle = {Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods},
->   year      = {2024},
->   pages     = {546--557},
->   isbn      = {978-989-758-684-2},
->   issn      = {2184-4313},
-> }
-> ```
+To cite our work in your research, please use the following BibTeX entry:
+
+```bibtex
+@conference{icpram24,
+  author={Zhenyue Gu. and Benedikt Kolbeinsson. and Krystian Mikolajczyk.},
+  title={AirEyeSeg: Teacher-Student Insights into Robust Fisheye UAV Detection},
+  booktitle={Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods - ICPRAM},
+  year={2024},
+  pages={546-557},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0012388600003654},
+  isbn={978-989-758-684-2},
+  issn={2184-4313},
+}
+
